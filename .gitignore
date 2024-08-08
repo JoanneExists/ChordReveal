@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -25,6 +26,8 @@ hs_err_pid*
 replay_pid*
 =======
 *.iml
+=======
+>>>>>>> 9b45133 (added license file and .gitignore)
 .gradle
 /local.properties
 /.idea/caches
@@ -39,4 +42,31 @@ replay_pid*
 .externalNativeBuild
 .cxx
 local.properties
+<<<<<<< HEAD
 >>>>>>> 5eda8c3 (Adding my ChordReveal project.)
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+>>>>>>> 9b45133 (added license file and .gitignore)
